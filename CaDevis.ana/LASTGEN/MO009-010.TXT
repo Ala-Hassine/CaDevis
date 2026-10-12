@@ -1,0 +1,6 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+TranchePieceTrancheMetier		TAR	25	nouvelle taille enregistrement : 25
+TranchePieceTrancheMetier	IDTrancheLotissementTranchePiece	RUB+		IDTrancheLotissementTranchePiece est une nouvelle clé
+TranchePieceTrancheMetier	IDTranchePiece	RUB-		la clé IDTranchePiece est supprimée
+TranchePieceTrancheMetier	IDTrancheMetier	RUB-		la clé IDTrancheMetier est supprimée
+TranchePieceTrancheMetier	IDTrancheLotissement	RUB-		la clé IDTrancheLotissement est supprimée

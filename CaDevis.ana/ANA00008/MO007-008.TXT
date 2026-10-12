@@ -1,0 +1,4 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+TrancheLotissementTranchePiece	IDTrancheLotissement	NNR	IDTrancheMetier	ATTENTION : la clé IDTrancheMetier a pour nouveau nom IDTrancheLotissement
+TranchePieceTrancheMetier	IDTranchePieceTrancheMetier	NNR	IDTranceLotissementTranchePiece	ATTENTION : la clé IDTranceLotissementTranchePiece a pour nouveau nom IDTranchePieceTrancheMetier
+TranchePieceTrancheMetier	IDTrancheMetier	NNR	IDTrancheLotissement	ATTENTION : la clé IDTrancheLotissement a pour nouveau nom IDTrancheMetier

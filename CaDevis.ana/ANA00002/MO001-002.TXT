@@ -1,0 +1,6 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+TranchePiece		TAR	84	nouvelle taille enregistrement : 84
+TranchePiece	IDTrancheLotissement	RUB+		IDTrancheLotissement est une nouvelle clé
+TrancheMetier		TAR	92	nouvelle taille enregistrement : 92
+TrancheMetier	IDTrancheLotissement	RUB+		IDTrancheLotissement est une nouvelle clé
+TrancheMetier	IDTranchePiece	RUB+		IDTranchePiece est une nouvelle clé

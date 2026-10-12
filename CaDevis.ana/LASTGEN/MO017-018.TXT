@@ -1,0 +1,19 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+BibliothequeNiveau8		NFI		nouveau fichier
+BibliothequeNiveau9		NFI		nouveau fichier
+BibliothequeNiveau10		NFI		nouveau fichier
+BibliothequeNiveau7		NFI		nouveau fichier
+BibliothequeNiveau6		NFI		nouveau fichier
+BibliothequeNiveau5		NFI		nouveau fichier
+BibliothequeNiveau4		NFI		nouveau fichier
+BibliothequeNiveau3		NFI		nouveau fichier
+BibliothequeNiveau2		NFI		nouveau fichier
+BibliothequeNiveau8		FRN		
+BibliothequeNiveau9		FRN		
+BibliothequeNiveau10		FRN		
+BibliothequeNiveau7		FRN		
+BibliothequeNiveau6		FRN		
+BibliothequeNiveau5		FRN		
+BibliothequeNiveau4		FRN		
+BibliothequeNiveau3		FRN		
+BibliothequeNiveau2		FRN		

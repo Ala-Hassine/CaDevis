@@ -1,0 +1,7 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+TrancheLotissementTranchePiece		NNF*	TranceLotissementTranchePiece	nouveau nom TrancheLotissementTranchePiece
+TrancheLotissementTranchePiece	IDTrancheLotissementTranchePiece	NNR	IDTranceLotissementTranchePiece	ATTENTION : la clé IDTranceLotissementTranchePiece a pour nouveau nom IDTrancheLotissementTranchePiece
+TrancheLotissementTranchePiece	IDTrancheMetier	NNR	IDTrancheLotissement	ATTENTION : la clé IDTrancheLotissement a pour nouveau nom IDTrancheMetier
+TranchePieceTrancheMetier		NFI		nouveau fichier
+TrancheLotissementTranchePiece		FRN		
+TranchePieceTrancheMetier		FRN		

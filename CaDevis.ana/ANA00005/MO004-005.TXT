@@ -1,0 +1,4 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Utilisateur		TAR	176	nouvelle taille enregistrement : 176
+Utilisateur	ExtensionImage	RUB+		ExtensionImage est une nouvelle rubrique
+Utilisateur	Image	RUB-		la rubrique Image est supprimée

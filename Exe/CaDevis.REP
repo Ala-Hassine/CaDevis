@@ -1,0 +1,23 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=A	;Analysis GUID
+LOCALIZATION_UTF8=2798ABC309024F7B97AA82AE0B739E36	TrancheLotissement	C:\Users\SABRI\Desktop\Desktop\MODELES\CaDevis\CaDevis\Exe\DataBaseV0\TrancheLotissement.fic
+LOCALIZATION_UTF8=A5D09B6547114E639B36E4F721D69D5B	TranchePiece	C:\Users\SABRI\Desktop\Desktop\MODELES\CaDevis\CaDevis\Exe\DataBaseV0\TranchePiece.fic
+LOCALIZATION_UTF8=18B1B54BEB34417CA5BA444B814BFFBA	TrancheMetier	C:\Users\SABRI\Desktop\Desktop\MODELES\CaDevis\CaDevis\Exe\DataBaseV0\TrancheMetier.fic
+LOCALIZATION_UTF8=2798ABC309024F7B97AA82AE0B739E36	TrancheLotissement	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV1\TrancheLotissement.fic
+LOCALIZATION_UTF8=A5D09B6547114E639B36E4F721D69D5B	TranchePiece	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV1\TranchePiece.fic
+LOCALIZATION_UTF8=18B1B54BEB34417CA5BA444B814BFFBA	TrancheMetier	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV1\TrancheMetier.fic
+LOCALIZATION_UTF8=DF1F0FE7612C47A08D0DB6359188D237	Utilisateur	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV1\Utilisateur.fic
+LOCALIZATION_UTF8=14C3A02C0ECB42009DFD8B6A85E74DB4	Client	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV1\Client.fic
+LOCALIZATION_UTF8=D30371176D1E4876871629229B5FCB07	TrancheLotissementTranchePiece	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV1\TrancheLotissementTranchePiece.fic
+LOCALIZATION_UTF8=89E45805F4F144EE83DD77E716984C5C	TranchePieceTrancheMetier	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV1\TranchePieceTrancheMetier.fic
+LOCALIZATION_UTF8=2798ABC309024F7B97AA82AE0B739E36	TrancheLotissement	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV02\TrancheLotissement.fic
+LOCALIZATION_UTF8=A5D09B6547114E639B36E4F721D69D5B	TranchePiece	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV02\TranchePiece.fic
+LOCALIZATION_UTF8=18B1B54BEB34417CA5BA444B814BFFBA	TrancheMetier	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV02\TrancheMetier.fic
+LOCALIZATION_UTF8=DF1F0FE7612C47A08D0DB6359188D237	Utilisateur	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV02\Utilisateur.fic
+LOCALIZATION_UTF8=14C3A02C0ECB42009DFD8B6A85E74DB4	Client	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV02\Client.fic
+LOCALIZATION_UTF8=D30371176D1E4876871629229B5FCB07	TrancheLotissementTranchePiece	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV02\TrancheLotissementTranchePiece.fic
+LOCALIZATION_UTF8=89E45805F4F144EE83DD77E716984C5C	TranchePieceTrancheMetier	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV02\TranchePieceTrancheMetier.fic
+LOCALIZATION_UTF8=4EA5C5E8174B49F4B226130CEE948EEC	COMposant_Gible	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV02\COMposant_Gible.FIC
+LOCALIZATION_UTF8=1265C3DA37484BA2B753AF4944EC6A42	Unités	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV02\Unités.FIC
+LOCALIZATION_UTF8=2DFBDAD67AFC485D9A783885FE47C555	BibliothequeNiveau1	C:\Developpement\Freelance\CodeSource\CaDevis\Exe\DataBaseV02\BibliothequeNiveau1.FIC
